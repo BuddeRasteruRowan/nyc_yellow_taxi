@@ -21,5 +21,5 @@ cargo run
 ### What the second aggregation does
 * Aggregates the Tip behavior by payment type, sorted from highest to lowest trip count
 
-![Final Results](screenshots/aggregation1.png)
-![Final Results](screenshots/aggregation2.png)
+![Final Results](aggregation1.png)
+![Final Results](aggregation2.png)
